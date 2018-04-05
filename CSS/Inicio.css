@@ -1,0 +1,57 @@
+.corpoLoginPai{
+	position: fixed;
+	background: #aec6cf;
+	width: 100%;
+	height: 100%;
+	opacity: 0.5;
+	margin: -10px; 
+
+}
+
+#corpoLoginFilha{
+	position: absolute;
+
+}
+
+.fildLogin{
+	position: fixed;
+	background: #FFFFFF;
+	width:20%;
+	height:40%;
+	margin-top: 13%;
+	margin-bottom: 15%;
+	margin-left: 38%;
+	border-radius: 15px;
+	border-color: #FFFFFF;
+	border-width: 0.5px;
+
+}
+
+#botaoCriar{
+
+	position: relative;
+	width: 80%;
+	height: 20%;
+	border-radius: 25px;
+	background: #FFFFFF;
+	margin-left: 1EM;
+	margin-right: 1EM;
+	margin-top: 2EM;
+	margin-bottom: 2EM;
+}
+
+#logomarca{
+
+	position: relative;
+	width: 60%;
+	height: 35%;
+	margin-top: 1EM;
+}
+
+.html, body, span, p, form, img, a, ul, ol, li, table, tr, td, div{
+margin: 0;
+padding: 0; 
+border:none; 
+outline:none;
+list-style-type:none;
+}
